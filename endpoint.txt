@@ -1,1 +1,0 @@
-https://api.druid.datalegend.net/datasets/Big-Data/Wijkdata1854/services/endpoint/sparql
