@@ -1,0 +1,1 @@
+https://api.druid.datalegend.net/datasets/dataLegend/BdVteaching/services/endpoint/sparql
